@@ -15,6 +15,7 @@ function insertionsort(array){
 	return array;
 }
 
-console.log(insertionsort(array));
+document.write(insertionsort(array));
 
 </script>
+
