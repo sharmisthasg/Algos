@@ -1,4 +1,3 @@
-# Submissions
-(RGSoC '18)
+# Algos
 
-Here are the code samples in Python, Java, C, Verilog and Javascript, submitted for the application of RGSoC '18
+Added algorithm of insertion sort and binary search in JavaScript.
